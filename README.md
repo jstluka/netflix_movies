@@ -21,9 +21,9 @@ The results have been uploaded here. I don't intend to comment on all of my find
 - Anupam Kher is very clearly in the most movies in this dataset, with 39 movies on Netflix. The non-Indian actor with the next highest number of movies is Adam Sandler, with 19 movies on Netflix. A quick Google search can tell you that Anupam Kher has acted in over 500 movies, while very successful American actors rarely act in more than 100.
 - Furthermore, since Anupam Kher has been in 39 movies, it makes sense that he has also starred in both the most comedies and the most action movies. You may note that Paresh Rawal, also a renowned Indian actor, has tied Anupam Kher for comedies on Netflix. Since they are both very prolific Bollywood actors, it is no wonder that they each star in many of the 858 Indian movies available on Netflix. A quick look at the actor pairs will show you that they haven't starred in very many movies together, at least not of their movies available on Netflix.
 - Raúl Campos and Jan Suter have directed most, if not all, of the Central and South American stand-up comedy specials available on Netflix.
-- Looking at the actor pairs that have starred in multiple movies together, it is easy to see which franchises have many movies available on Netflix. Nearly all of the first 50 results in this set can be attributed to the Trailer Park Boys franchise, the Monster High franchise, or Monty Python.
+- Looking at the actor pairs that have starred in multiple movies together, it is easy to see which franchises have many movies available on Netflix. Nearly all of the pairs with 6 or more movies together in this set can be attributed to Trailer Park Boys, Monster High, Monty Python, My Little Pony, or Naruto.
 
-<img width="496" height="560.5" alt="genre_barplot" src="https://github.com/user-attachments/assets/043098cf-cdd1-4648-93b0-08f2fc03134e" />
+<img width="330.67" height="373.67" alt="genre_barplot" src="https://github.com/user-attachments/assets/043098cf-cdd1-4648-93b0-08f2fc03134e" />
 
-<img width="496" height="560.5" alt="country_barplot" src="https://github.com/user-attachments/assets/6c628e61-1a2c-40c2-826a-c623e56b1a40" />
+<img width="330.67" height="373.67" alt="country_barplot" src="https://github.com/user-attachments/assets/6c628e61-1a2c-40c2-826a-c623e56b1a40" />
 
