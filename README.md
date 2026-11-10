@@ -23,7 +23,7 @@ The results have been uploaded here. I don't intend to comment on all of my find
 - Raúl Campos and Jan Suter have directed most, if not all, of the Central and South American stand-up comedy specials available on Netflix.
 - Looking at the actor pairs that have starred in multiple movies together, it is easy to see which franchises have many movies available on Netflix. Nearly all of the pairs with 6 or more movies together in this set can be attributed to Trailer Park Boys, Monster High, Monty Python, My Little Pony, or Naruto.
 
-<img width="330.67" height="373.67" alt="genre_barplot" src="https://github.com/user-attachments/assets/043098cf-cdd1-4648-93b0-08f2fc03134e" />
+<img width="396.8" height="448.4" alt="genre_barplot" src="https://github.com/user-attachments/assets/043098cf-cdd1-4648-93b0-08f2fc03134e" />
 
-<img width="330.67" height="373.67" alt="country_barplot" src="https://github.com/user-attachments/assets/6c628e61-1a2c-40c2-826a-c623e56b1a40" />
+<img width="396.8" height="448.4" alt="country_barplot" src="https://github.com/user-attachments/assets/6c628e61-1a2c-40c2-826a-c623e56b1a40" />
 
